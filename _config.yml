@@ -1,1 +1,5 @@
-
+title: ancient
+#logo
+description: Welcome to my page, traveler.
+#show_downloads: true
+theme: jekyll-theme-minimal
